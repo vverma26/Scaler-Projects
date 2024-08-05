@@ -1,2 +1,2 @@
 # Scaler-Projects
-hi
+Some of my projects done in Scaler Acedemy. 
